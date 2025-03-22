@@ -63,7 +63,7 @@ Key insights from data visualization and analysis:
 📌 **Deployed on:** Streamlit Cloud  
 
 ### 🔥 **Try It Live:**  
-👉 [Calories Predictor Web App](caloriespredictor-lqvipksxryatlzstyupu5l.streamlit.app)  
+👉 [Calories Predictor Web App](https://caloriespredictor-lqvipksxryatlzstyupu5l.streamlit.app)  
 
 ---
 
